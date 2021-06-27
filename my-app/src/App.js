@@ -38,7 +38,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Test activies={this.state.activities} />
+        <Test activities={this.state.activities} />
       </div>
     );
   }
